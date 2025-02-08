@@ -1,0 +1,4 @@
+timestamp,question_id,pdf_source,difficulty,is_correct
+2025-02-08 09:35:10.768420,1,Data Science do zero_ Primeiras regras com o Python - PDF Room_e38082e0.pdf,easy,True
+2025-02-08 09:35:14.356331,3,Data Science do zero_ Primeiras regras com o Python - PDF Room_e38082e0.pdf,easy,True
+2025-02-08 09:35:17.033638,3,Data Science do zero_ Primeiras regras com o Python - PDF Room_e38082e0.pdf,easy,False
